@@ -3,4 +3,4 @@ pandas
 matplotlib
 scipy
 jupyter
-opencv-python
+opencv-python-headless
